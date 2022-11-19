@@ -10,3 +10,15 @@
     border: 1px solid #d00000;
     text-align: center;
 }
+
+.grid-item:hover {
+    background-color: #d00000;
+}
+
+button {
+    width: 25%;
+    height: 60px;
+    font-size: large;
+    font-weight: bolder;
+    background-color: #b85c10;
+}
